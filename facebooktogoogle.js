@@ -1,3 +1,5 @@
+//Créditos -> Giovani Rubim Francisco(Bacon)
+
 var changeTitle=false,functionTitle=function(){
 	if(changeTitle)document.getElementsByTagName('title')[0].innerHTML="Google"}
 		,intervalTitle=setInterval(functionTitle,100)
